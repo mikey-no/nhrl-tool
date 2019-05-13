@@ -5,7 +5,7 @@ Reference File Signature Tool
 
 Provide a tool to query the NHRL File Signature information (https://www.nist.gov/srd/nist-special-database-28)
 
-Requirements
+**Requirements**
 
 ***Provide:***
 
@@ -20,7 +20,7 @@ Requirements
 1. Make the code run more reliable - current un handled parse error (file name with single quote causes and error)
 2. Maket the code run more quickly
 3. Fully test (whatever this means)
-4. Confirm if the database table structure is correct I added an addtional files to each table for id for my own primary key
+4. Confirm if the database table structure is correct I added an addtional field to each table for id for my own primary key
 
 **Build**
 The applications is built using the following:
@@ -38,5 +38,6 @@ The applications is built using the following:
 
 **Licence**
 
-Not for commercial use. No warrenty expressed or implied
+Not for commercial use. 
+No warrenty expressed or implied
 Author: mikey-no

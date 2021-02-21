@@ -3,16 +3,16 @@ Reference File Signature Tool
 
 **Aims**
 
-Provide a tool to query the NHRL File Signature information (https://www.nist.gov/srd/nist-special-database-28)
+Provide a tool to query the NSRL File Signature information (https://www.nist.gov/srd/nist-special-database-28)
 
 **Requirements**
 
 ***Provide:***
 
-1.	A store for NHRL File signatures
+1.	A store for NSRL File signatures
 2.	That provides a mechnaism to query the dataset to determine if a file signature has seen before
 3.	As above for bulk file signatures comparisons
-4.  To provide NHRL information about file signatures
+4.  To provide NSRL information about file signatures
 5.  Be agnostic of the COTS or Open solutions undoubtable avalible to ensure the roadmap ramains under my control
 
 **Further Work**
